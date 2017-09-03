@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Level\Filler.cs" Line="34" Column="46" />
+      <File FileName="Assets\Scripts\Level\MyBallController.cs" Line="56" Column="3" />
+      <File FileName="Assets\Scripts\Level\GameController.cs" Line="107" Column="3" />
+      <File FileName="Assets\Scripts\Level\EnemySpawner.cs" Line="9" Column="10" />
+      <File FileName="Assets\Scripts\Level\EnemyMover.cs" Line="52" Column="20" />
+      <File FileName="Assets\Scripts\Level\BordersControl.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
